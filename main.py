@@ -5,7 +5,7 @@ from pathlib import Path
 
 from xlib import appargs as lib_appargs
 from xlib import os as lib_os
-from xlib import abCreate a new branch on your local repository, and switch
+from xlib import abCreate a new branch on your local repository, and switchzzzz
 
 # onnxruntime==1.8.0 requires CUDA_PATH_V11_2, but 1.8.1 don't
 # keep the code if they return that behaviour
